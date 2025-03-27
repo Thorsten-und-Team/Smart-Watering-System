@@ -1,5 +1,5 @@
 # Smart-Watering-System
-Smart Watering System for indoor plants to 3D print
+> Website for our MyScience Project "Smart Watering System for indoor plants"
 
 ## Components you need to build this project:
 You can either order them at AliExpress or Amazon
