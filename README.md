@@ -5,7 +5,8 @@ Smart Watering System for indoor plants to 3D print
 You can either order them at AliExpress or Amazon
 - ESP32
 - ili9341 Display
-- Magnet valves
+- Magnet valves and hoses
+- Transistors (The ESP32 Pins do not provide enough power to run the valves)
 - Hygrometer
 
 ## 3D Printing
