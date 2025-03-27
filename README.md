@@ -1,7 +1,7 @@
 # Smart-Watering-System
 Smart Watering System for indoor plants to 3D print
 
-## Components you need to build this project on your own:
+## Components you need to build this project:
 You can either order them at AliExpress or Amazon
 - ESP32
 - ili9341 Display
